@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # KLineChart
 
 Android仿火币K线图实现（包含MA,BOLL,MACD,KDJ,RSI,WR指标）
@@ -122,3 +123,7 @@ public void setMainDrawLine(boolean isLine) {
 
 ## 具体使用参照KLineChartDemo
 
+=======
+# KLineChartDemo
+基于KLineChart修改的一款仿火币k线框架。增加实时价格。增加长按价格标示。
+>>>>>>> 90e6493433c0377b01d6ce45805363f278e5ad76
